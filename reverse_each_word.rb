@@ -5,5 +5,4 @@ def reverse_each word(string)
     result += item.reverse 
   end
   result
-
 end
